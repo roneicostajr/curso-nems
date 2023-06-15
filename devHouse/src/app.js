@@ -9,7 +9,7 @@ class App {
     this.server = express();
 
     mongoose.connect(
-      '***REMOVED***',
+      '',
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
